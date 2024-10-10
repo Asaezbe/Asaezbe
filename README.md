@@ -12,7 +12,7 @@ Actualmente trabajo de forma independiente y me dedico a aprender más de Vue y 
 
 ## 🖋️ :paintbrush: :triangular_ruler: Relacionado al Diseño:
 -	Animacion 3d en el instituto Arcos en Santigo de Chile
--	Curso de diseño con Freehand MX
+-	Curso de diseño Freehand MX
 -	Especialización en animación 2d según workflow de la industria del anime (Koeda animation).
 - Pintura al óleo, este último ha resultado ser muy útil para el entendimiento del color.
 -	Estudiando de forma autodidacta en casa he aprendido también PhotoShop, Suite adobe en general y Blender entre otros.
