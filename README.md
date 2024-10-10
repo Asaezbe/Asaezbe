@@ -1,4 +1,4 @@
-	&#128513 Hola, mi nombre es Andres.
+## Hola, mi nombre es Andres.
 
 FrontEnd Developer con gran experiencia en diseño gráfico.
 
