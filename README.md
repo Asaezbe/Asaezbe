@@ -1,4 +1,4 @@
-## Hola, mi nombre es Andres.
+## <i class="fa-solid fa-thumbs-up fa-fade"></i> Hola, mi nombre es Andres.
 
 FrontEnd Developer con gran experiencia en diseño gráfico.
 
