@@ -3,7 +3,7 @@ Hola, mi nombre es Andres y soy un FrontEnd Developer con gran experiencia en di
 Me encantan las tecnologías y aprender.
 Actualmente trabajo de forma independiente y me dedico a aprender más de Vue y hosting.
 
-En cuanto a estudios:
+## estudios:
 -	desarrollo FrontEnd en la academia Desafio Latam.
 Html5, CSS, Saas, Bootstrap, Java Script, Vue, Firebase Hosting y pruebas unitarias.
 -	previamente a esto aprendí armado y reparación de hardware para PC y notebook de forma autodidacta.
