@@ -18,7 +18,7 @@ Actualmente trabajo de forma independiente y me dedico a aprender más de Vue y 
 - Pintura al óleo, este último ha resultado ser muy útil para el entendimiento del color.
 -	Estudiando de forma regular y autodidacta en casa he aprendido también PhotoShop, Suite adobe en general y Blender entre otros.
 
-## Experiencia previa: 
+## :technologist: Experiencia previa: 
 - Diseño de paginas responsivas con Vue.
 - Hosting de firebase y AWS.
 -	Realización de páginas web y tiendas con carro de compra y medio de pago con wordpress y otros.
