@@ -19,7 +19,7 @@ Actualmente trabajo de forma independiente y me dedico a aprender más de Vue y 
 
 ## :technologist: Experiencia previa: 
 - Diseño de paginas responsivas.
-- Hosting de firebase y AWS.
+- Hosting de Firebase y AWS.
 -	Realización de páginas web y tiendas con carro de compra y medio de pago con wordpress y otros.
 -	Implementación de soluciones con Excell.
 
