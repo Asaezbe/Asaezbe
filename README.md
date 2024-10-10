@@ -1,4 +1,5 @@
-Hola, mi nombre es Andres y soy un FrontEnd Developer con gran experiencia en diseño gráfico.
+Hola, mi nombre es Andres.
+FrontEnd Developer con gran experiencia en diseño gráfico.
 
 Me encantan las tecnologías y aprender.
 Actualmente trabajo de forma independiente y me dedico a aprender más de Vue y hosting.
@@ -15,3 +16,9 @@ Actualmente trabajo de forma independiente y me dedico a aprender más de Vue y 
 -	Especialización en animación 2d según workflow de la industria del anime.
 - Pintura al óleo, este último ha resultado ser muy útil para el entendimiento del color.
 -	Estudiando de forma regular y autodidacta en casa he aprendido también PhotoShop, Suite adobe en general y Blender entre otros.
+
+## Experiencia previa: 
+- Diseño de paginas responsivas con Vue.
+- Hosting de firebase y AWS.
+-	Realización de páginas web y tiendas con carro de compra y medio de pago con wordpress y otros.
+  
