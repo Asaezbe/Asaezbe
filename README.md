@@ -1,4 +1,4 @@
-## :thumbsup: <span style="color:red"> Hola, mi nombre es Andres. </span>
+# :thumbsup: Hola, mi nombre es Andres. 
 
 FrontEnd Developer con gran experiencia en diseño gráfico.
 
