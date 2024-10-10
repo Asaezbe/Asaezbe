@@ -7,7 +7,7 @@ Actualmente trabajo de forma independiente y me dedico a aprender más de Vue y 
 
 ## :computer: :open_book: Estudios:
 -	Desarrollo FrontEnd en la academia Desafio Latam.
-  <h3> Html5, CSS, Saas, Bootstrap, Java Script, Vue, Firebase Hosting y pruebas unitarias</h3>.
+  <h3> Html5 | CSS | Saas | Bootstrap | Java Script | Vue | Firebase Hosting | pruebas unitarias</h3>.
 -	Previamente a esto aprendí armado y reparación de hardware para PC y notebook de forma autodidacta.
 -	Uso y configuración avanzada de Windows y Linux
 
