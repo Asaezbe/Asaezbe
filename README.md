@@ -1,4 +1,4 @@
-	&#128513; <i class="fa-solid fa-thumbs-up fa-fade"></i> Hola, mi nombre es Andres.
+	&#128513 Hola, mi nombre es Andres.
 
 FrontEnd Developer con gran experiencia en diseño gráfico.
 
