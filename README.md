@@ -10,7 +10,7 @@ Actualmente trabajo de forma independiente y me dedico a aprender más de Vue y 
   <h3> Html5  |  CSS |  Saas  |  Bootstrap |  Java Script  |  Vue |  Firebase Hosting  |  pruebas unitarias Jest</h3>
 -	Previamente a esto aprendí armado, reparación de hardware para PC / notebook y configuración avanzada de Windows y Linux de manera autodidacta.
 
-## 🖋️ :paintbrush: :triangular_ruler: Relacionado al Diseño:
+## :paintbrush: :triangular_ruler: Relacionado al Diseño:
 -	Animacion 3d en el instituto Arcos en Santigo de Chile
 -	Curso de diseño Freehand MX
 -	Especialización en animación 2d según workflow de la industria del anime (Koeda animation).
