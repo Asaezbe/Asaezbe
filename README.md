@@ -1,4 +1,5 @@
 Hola, mi nombre es Andres.
+
 FrontEnd Developer con gran experiencia en diseño gráfico.
 
 Me encantan las tecnologías y aprender.
