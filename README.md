@@ -1,6 +1,6 @@
 # :thumbsup: Hola, mi nombre es Andres. 
 
-FrontEnd Developer con gran experiencia en diseño gráfico.
+FrontEnd Developer y diseñador gráfico.
 
 Me encantan las tecnologías y aprender.
 Actualmente trabajo de forma independiente y me dedico a aprender más de Vue y hosting.
