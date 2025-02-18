@@ -3,7 +3,7 @@
 FrontEnd Developer y diseñador gráfico.
 
 Me encantan las tecnologías y aprender.
-Actualmente trabajo de forma independiente y me dedico a aprender más de Vue y hosting.
+Actualmente trabajo como freelance entrenando inteligencias artificiales (LLM).
 
 ## :computer: :open_book: Estudios:
 -	Desarrollo FrontEnd en la academia Desafio Latam.
@@ -23,7 +23,7 @@ Actualmente trabajo de forma independiente y me dedico a aprender más de Vue y 
 ## :technologist: Experiencia previa: 
 - Diseño de paginas responsivas.
 - Hosting de Firebase y AWS.
--	Realización de páginas web y tiendas con carro de compra y medio de pago con wordpress y otros.
+-	Realización de páginas web y tiendas con carro de compra y medio de pago con wordpress y otros CMS.
 -	Implementación de soluciones con Excell.
 
   Contacto:
